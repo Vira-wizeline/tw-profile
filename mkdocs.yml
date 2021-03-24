@@ -1,0 +1,14 @@
+site_name: WIZELINE
+nav:
+  - Home: index.md
+  - About: about.md
+  - 'About Vira':
+    - Work Experience: new-page.md
+    - 'Education': 'page-two.md'
+
+theme:
+  name: material      
+  logo: images/wizeline_isotype.png
+    
+extra_css:
+  - css/extra.css
