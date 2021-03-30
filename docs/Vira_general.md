@@ -1,6 +1,6 @@
 ![Vira Ivanova](vira.png)
 
-## Vira Ivanova
+# Vira Ivanova
 _Guadalajara_
   
 Before becoming a technical writer Vira worked as a project lead and a researcher for seven years. For another seven she worked as a journalist.

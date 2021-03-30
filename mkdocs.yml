@@ -1,6 +1,6 @@
-site_name: WIZELINE
+site_name: Vira Ivanova
 nav:
-  - Home: index.md
+  - Overview: Vira_general.md
   - About: about.md
   - 'About Vira':
     - Work Experience: new-page.md
