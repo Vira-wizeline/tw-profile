@@ -1,6 +1,6 @@
 site_name: Vira Ivanova
 nav:
-  - Home: Vira_general.md
+  - Overview: Vira_general.md
   - About: about.md
   - 'About Vira':
     - Work Experience: new-page.md
