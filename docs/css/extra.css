@@ -8,7 +8,7 @@
 
 /* Main Header */
 .md-header {
-    color: rgb(255, 255, 255);
+    color: rgb(4, 61, 56);
     background-color:black;
 }
 
@@ -55,12 +55,12 @@ a:hover - a link when the user mouses over it
 a:active - a link the moment it is clicked */
 
 .md-typeset a {
-    color: rgb(3, 9, 100);
+    color: rgb(4, 65, 51);
     text-decoration:underline;
 }
 
 .md-typeset a:hover {
-    color: darkred;
+    color: rgb(5, 70, 39);
     cursor: pointer;
 }
 
@@ -126,7 +126,7 @@ a:active - a link the moment it is clicked */
 }
 
 .wy-side-nav-search>a {
-    color: red;
+    color: rgb(6, 83, 67);
 }
 
 /* mkdocs theme*/
