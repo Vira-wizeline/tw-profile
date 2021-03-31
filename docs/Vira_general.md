@@ -1,4 +1,4 @@
-![Vira Ivanova](vira_small.png)
+![Vira Ivanova](images/vira_small.png)
 
 # Vira Ivanova
 _Guadalajara_
