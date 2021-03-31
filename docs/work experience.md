@@ -1,4 +1,4 @@
-# Work Experience:
+# Work Experience
 
 - **Technical Writer** at Wizeline (2020 - present) _Mexico_
  - **Project lead, Researcher** at Precedent Academics 
